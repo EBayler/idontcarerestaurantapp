@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EBayler/idontcarerestaurantapp/issues"
   },
-  "homepage": "https://github.com/EBayler/idontcarerestaurantapp#readme"
+  "homepage": "https://github.com/EBayler/idontcarerestaurantapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
